@@ -1,11 +1,13 @@
 # FUTURE_DS_02
 Facebook Ad Campaign Performance Dashboard
 1. Project Overview
+   
 This project involves the creation of a comprehensive Power BI Dashboard to analyze the performance of a Facebook ad campaign. The goal was to visualize key performance indicators (KPIs), identify trends in audience demographics, and evaluate the cost-efficiency of different targeting strategies.
 
 This dashboard provides a high-level view of ROI and conversion metrics while drilling down into specific age and gender segments to optimize future ad spend.
 
 2. Key Performance Indicators (KPIs)
+   
 The dashboard tracks the following aggregate metrics to determine overall campaign health:
 
 ROI: 49.1%
@@ -26,7 +28,7 @@ Total Clicks: 12K
 
 Total Impressions: 79M
 
-3. Insights & Analysis
+3. Insights & Analysis 
 Audience Demographics
 Impressions by Age: The campaign reach was heavily skewed toward younger audiences. The 30-34 age group received the highest impressions (36M), while reach tapered off significantly for older groups (e.g., 7M for ages 45-49).
 
