@@ -28,7 +28,8 @@ Total Clicks: 12K
 
 Total Impressions: 79M
 
-3. Insights & Analysis 
+3. Insights & Analysis
+   
 Audience Demographics
 Impressions by Age: The campaign reach was heavily skewed toward younger audiences. The 30-34 age group received the highest impressions (36M), while reach tapered off significantly for older groups (e.g., 7M for ages 45-49).
 
@@ -51,6 +52,7 @@ Most Efficient: Females aged 30-34 showed the best performance with a CPA of jus
 Least Efficient: Males aged 40-44 and 45-49 were the most expensive to convert, with CPAs rising as high as $57.40 and $57.92 for 45-49 Females respectively.
 
 4. Technical Details
+   
 Tool Used: Microsoft Power BI
 
 Data Modeling: Connected and transformed raw campaign data to create relationships between ad spend, clicks, and conversion tables.
@@ -66,6 +68,7 @@ ROI calculations based on revenue and spend.
 Visualizations: Utilized Donut charts for interest distribution, Funnel charts for impressions hierarchy, and Heatmaps for cost-efficiency analysis.
 
 5. Conclusion
+   
 The data suggests that the campaign is highly effective with the 30-34 Female demographic. To improve the overall ROI of 49.1%, future budget allocation should likely be shifted away from the high-CPA Male 40-49 segments and reinvested into the younger female segments where acquisition costs are significantly lower
  DASHOARD
 <img width="634" height="335" alt="Intern Task 2" src="https://github.com/user-attachments/assets/0384c3af-d0ef-4a41-86d9-8fea4a61cc62" />
